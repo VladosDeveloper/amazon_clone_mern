@@ -1,0 +1,23 @@
+.basketItem {
+  display: flex;
+  margin: 20px 0;
+}
+
+.productCheck__info {
+  display: flex;
+  box-sizing: border-box;
+  width: 240px;
+  height: max-content;
+  padding-left: 20px;
+  flex-direction: column;
+}
+.productCheck__image {
+  object-fit: contain;
+  width: 140px;
+  height: 140px;
+}
+
+.productCheck__title {
+  font-size: 17px;
+  font-weight: 800;
+}

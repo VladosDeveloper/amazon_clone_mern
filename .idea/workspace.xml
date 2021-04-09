@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb353935-e4d2-4c9b-9391-ab0074ba8dd6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nTb4j2emcFoPZVv0GwemFGvgCH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WebDesign\WebSites\amazon\amazon_clone\src\particls" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/functions/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb353935-e4d2-4c9b-9391-ab0074ba8dd6" name="Default Changelist" comment="" />
+      <created>1611416838878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611416838878</updated>
+      <workItem from="1611416840888" duration="470000" />
+      <workItem from="1611417860176" duration="13221000" />
+      <workItem from="1611477694723" duration="12443000" />
+      <workItem from="1611653382265" duration="1385000" />
+      <workItem from="1611655047079" duration="13130000" />
+      <workItem from="1611740868509" duration="994000" />
+      <workItem from="1611908736773" duration="12008000" />
+      <workItem from="1611993547277" duration="592000" />
+      <workItem from="1611994173805" duration="13769000" />
+      <workItem from="1612258795073" duration="6139000" />
+      <workItem from="1613117724111" duration="945000" />
+      <workItem from="1613201794931" duration="2563000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="467" y="157" width="665" height="703" key="EditFileWatcherDialog" timestamp="1611419558027">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="467" y="157" width="665" height="703" key="EditFileWatcherDialog/0.0.1600.860@0.0.1600.860" timestamp="1611419558027" />
+    <state width="1579" height="202" key="GridCell.Tab.0.bottom" timestamp="1612259186816">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="202" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1612259186816" />
+    <state width="1579" height="202" key="GridCell.Tab.0.center" timestamp="1612259186816">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="202" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1612259186816" />
+    <state width="1579" height="202" key="GridCell.Tab.0.left" timestamp="1612259186815">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="202" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1612259186815" />
+    <state width="1579" height="202" key="GridCell.Tab.0.right" timestamp="1612259186816">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="202" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1612259186816" />
+    <state x="301" y="72" key="SettingsEditor" timestamp="1612007188664">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1612007188664" />
+    <state x="456" y="195" width="672" height="677" key="run.anything.popup" timestamp="1611999711470">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" width="672" height="677" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1611999711470" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1611427794412">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1611427794412" />
+  </component>
+</project>
